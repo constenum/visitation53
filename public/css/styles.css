@@ -1,0 +1,23 @@
+.main-links a:nth-child(n+2) {
+    margin: 2em 0;
+}
+
+h1 {
+    color: blue;
+}
+
+h1, h4 {
+    text-align: center;
+}
+
+.spacing {
+    margin-top: 20px;
+}
+
+.showRow {
+    display: table-row;
+}
+
+.hideRow, .hideColumn {
+    display: none;
+}
