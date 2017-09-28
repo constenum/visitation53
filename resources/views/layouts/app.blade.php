@@ -39,7 +39,7 @@
                     <ul class="nav navbar-nav">
                         &nbsp;
                     </ul>
-                    
+
                 </div>
             </div>
         </nav>
