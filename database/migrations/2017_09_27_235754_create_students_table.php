@@ -47,7 +47,7 @@ class CreateStudentsTable extends Migration
      */
     public function down()
     {
-        Schema::table('books', function (Blueprint $table) {
+        Schema::table('students', function (Blueprint $table) {
             $table->dropForeign('students_school_id_foreign');
         });
 
